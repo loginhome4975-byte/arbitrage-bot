@@ -1,3 +1,5 @@
+🔴 base blockchainida ishlanadi , agar qayeridadir bsc yozilgan bolsa base blockchaini tushunilsin
+
 Ro'yxatingizdagi 29 ta terminni birma-bir sanab oling. Hech qaysi biri tushib qolmaydi va ularning barchasi aynan "A birjadan arzonroq olib, B birjaga qimmatroq sotish" (Arbitraj) mantig'iga moslashtirilgan holda tushuntiriladi.
 ​Mana bizning to'liq jangovar arsenalimiz:
 ​1. Flashloan
